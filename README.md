@@ -1,7 +1,4 @@
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/marinahsborges"
+
     
 ### Hi, my name is Marina Borges :purple_heart:
 
