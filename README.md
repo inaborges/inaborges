@@ -2,7 +2,7 @@
 
 I'm a Data Science student, from São Paulo, 🇧🇷 .
 
-🔭 I’m currently working on Python and machine learning projects and learning R and statistics.
+I’m currently working on Python and machine learning projects and learning R and statistics.
 
 💬 Ask me about marketing, motherhood, GreenBay Packers and Disney Movies.
 
@@ -12,7 +12,7 @@ I'm a Data Science student, from São Paulo, 🇧🇷 .
 
 
 
-:blue_heart: “Around here, however, we don't look backwards for very long. We keep moving forward, opening up new doors and doing new things, because we're curious...and curiosity keeps leading us down new paths.”
+:blue_heart: “Around here, however, we don't look backwards for very long. We keep moving forward, opening up new doors and doing new things, because we're curious...and curiosity keeps leading us down new paths.” (Walt Disney)
 
 <!--
 **inaborges/inaborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
