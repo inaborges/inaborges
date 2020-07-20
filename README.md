@@ -1,9 +1,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/inaborges)](https://github.com/inaborges)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/marinaborges/)](https://www.kaggle.com/marinaborges/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marinahsborges/)](https://www.linkedin.com/in/marinahsborges/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marinahsborges)](https://twitter.com/marinahsborges)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marina.borges.adm@gmail.com)](mailto:marina.borges.adm@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/inaborges/)](https://www.instagram.com/inaborges/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@mariinaborges)](https://medium.com/@mariinaborges)
 
     
@@ -22,6 +19,10 @@ I’m currently working on Python and machine learning projects and learning R a
 
 
 :blue_heart: “Around here, however, we don't look backwards for very long. We keep moving forward, opening up new doors and doing new things, because we're curious...and curiosity keeps leading us down new paths.” (Walt Disney)
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marinahsborges)](https://twitter.com/marinahsborges)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marina.borges.adm@gmail.com)](mailto:marina.borges.adm@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/inaborges/)](https://www.instagram.com/inaborges/)
 
 <!--
 **inaborges/inaborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
