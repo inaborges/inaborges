@@ -14,7 +14,7 @@ I’m currently working on Python and machine learning projects and learning R a
 
 :purple_heart: Attending to Codenation's Data Science Bootcamp.
 
-![Octocat](https://github.com/inaborges/inaborges/blob/master/octocat.png = 250px)
+![Octocat](https://github.com/inaborges/inaborges/blob/master/octocat.png =250x)
 
 
 
