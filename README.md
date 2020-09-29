@@ -1,4 +1,4 @@
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/inaborges)](https://github.com/inaborges)
+
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/marinaborges/)](https://www.kaggle.com/marinaborges/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marinahsborges/)](https://www.linkedin.com/in/marinahsborges/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@mariinaborges)](https://medium.com/@mariinaborges)
@@ -34,6 +34,7 @@ I'm also a Salesforce Ranger, currently learning more about Einstein Analytics.
 #:purple_heart: Attending to Codenation's Data Science Bootcamp.
 Here are some ideas to get you started:
 :blue_heart: “Around here, however, we don't look backwards for very long. We keep moving forward, opening up new doors and doing new things, because we're curious...and curiosity keeps leading us down new paths.” (Walt Disney)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/inaborges)](https://github.com/inaborges)
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
