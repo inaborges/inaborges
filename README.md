@@ -23,7 +23,7 @@ I'm also a Salesforce Ranger, currently learning more about Einstein Analytics.
 
 
 
-:blue_heart: “Around here, however, we don't look backwards for very long. We keep moving forward, opening up new doors and doing new things, because we're curious...and curiosity keeps leading us down new paths.” (Walt Disney)
+
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marinahsborges)](https://twitter.com/marinahsborges)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marina.borges.adm@gmail.com)](mailto:marina.borges.adm@gmail.com)
@@ -33,7 +33,7 @@ I'm also a Salesforce Ranger, currently learning more about Einstein Analytics.
 **inaborges/inaborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 #:purple_heart: Attending to Codenation's Data Science Bootcamp.
 Here are some ideas to get you started:
-
+:blue_heart: “Around here, however, we don't look backwards for very long. We keep moving forward, opening up new doors and doing new things, because we're curious...and curiosity keeps leading us down new paths.” (Walt Disney)
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
