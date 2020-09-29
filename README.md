@@ -16,7 +16,7 @@ I'm also a Salesforce Ranger, currently learning more about Einstein Analytics.
 
 💬 Ask me about marketing, motherhood, GreenBay Packers and Disney Movies.
 
-:purple_heart: Attending to Codenation's Data Science Bootcamp.
+
 
 
 <img src="https://github.com/inaborges/inaborges/blob/master/octocat.png" width="250">
@@ -31,7 +31,7 @@ I'm also a Salesforce Ranger, currently learning more about Einstein Analytics.
 
 <!--
 **inaborges/inaborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+#:purple_heart: Attending to Codenation's Data Science Bootcamp.
 Here are some ideas to get you started:
 
 
