@@ -6,9 +6,7 @@
     
 ### Marina Borges :purple_heart:
 
-I'm a Data Science student, from São Paulo, 🇧🇷 .
-
-I’m currently working on Python and machine learning projects and learning R and statistics.
+I'm a Data Science student, from São Paulo, 🇧🇷 , currently working on Python and machine learning projects and learning R and statistics.
 
 I'm also a Salesforce Ranger, currently learning more about Einstein Analytics.
 
