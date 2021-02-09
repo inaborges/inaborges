@@ -6,7 +6,7 @@
     
 ### Marina Borges :purple_heart:
 
-I'm a Marketing Data Science student, and community builder from São Paulo, 🇧🇷 .
+I'm a Marketing Data Science student, and community builder from São Paulo, 🇧🇷 .  
 [Codecademy](https://community.codecademy.com/sao-paulo/https://community.codecademy.com/sao-paulo/) and [Salesforce Women in Tech](https://trailblazercommunitygroups.com/salesforce-women-in-tech-group-sao-paulo-brazil/) Chapter Leader.
 
 I'm also a Salesforce Ranger, currently learning more about Einstein Analytics and Pardot.
