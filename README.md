@@ -6,20 +6,11 @@
     
 ### Marina Borges :purple_heart:
 
-I'm a Data Science student, from São Paulo, 🇧🇷 , currently working on Python and machine learning projects and learning R and statistics.
+I'm a Marketing Data Science student, from São Paulo, 🇧🇷 .
 
-I'm also a Salesforce Ranger, currently learning more about Einstein Analytics.
+I'm also a Salesforce Ranger, currently learning more about Einstein Analytics and Pardot.
 
 🔵 Here you can check my [Trailblazer Profile](https://trailblazer.me/id/marinaborges).
-
-💬 Ask me about marketing, motherhood, GreenBay Packers and Disney Movies.
-
-
-
-
-<img src="https://github.com/inaborges/inaborges/blob/master/octocat.png" width="250">
-
-
 
 
 
