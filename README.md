@@ -12,6 +12,15 @@ I'm a Marketing Data Science student, from São Paulo, 🇧🇷 .
 
 Building communities and bringing diversity in tech is big for me. I'm involved in projects like [AI Inclusive](https://www.ai-inclusive.org) as Marketing Manager, and in [Codecademy](https://community.codecademy.com/sao-paulo/https://community.codecademy.com/sao-paulo/) and [Salesforce Women in Tech](https://trailblazercommunitygroups.com/salesforce-women-in-tech-group-sao-paulo-brazil/) communities as Community Leader.
 
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaborges&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=inaborges&theme=buefy"/></td>
+    </tr>   
+</table>
+</center> 
+
 <!--I'm also a Salesforce Ranger, currently learning more about Einstein Analytics and Pardot.
 
 🔵 Here you can check my [Trailblazer Profile](https://trailblazer.me/id/marinaborges).-->
