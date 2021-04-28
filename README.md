@@ -10,7 +10,7 @@
 
 I'm a Salesforce Consultant and Marketing Data Science student, from São Paulo, 🇧🇷 .  
 
-Building communities and bringing diversity in tech is big for me. 
+Building communities and bringing diversity in tech is my purpose. 
 
 I'm involved in projects like [AI Inclusive](https://www.ai-inclusive.org) as Marketing Manager, and in [Codecademy](https://community.codecademy.com/sao-paulo/https://community.codecademy.com/sao-paulo/) and [Salesforce Women in Tech](https://trailblazercommunitygroups.com/salesforce-women-in-tech-group-sao-paulo-brazil/) communities as Community Leader.
 
