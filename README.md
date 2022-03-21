@@ -8,7 +8,7 @@
     
 ### Marina Borges 
 
-I'm a Salesforce Developer Consultant and Marketing Data Science student, from São Paulo, 🇧🇷 .  
+I'm a Salesforce RevOps Consultant, from São Paulo, 🇧🇷 .  
 
 Building communities and bringing diversity in tech is my purpose. 
 
