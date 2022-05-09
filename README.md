@@ -8,7 +8,7 @@
     
 ### Marina Borges 
 
-I'm a Salesforce RevOps Consultant, from São Paulo, 🇧🇷 .  
+I'm a Salesforce Consultant, from São Paulo, 🇧🇷 .  
 
 Building communities and bringing diversity in tech is my purpose. 
 
