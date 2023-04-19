@@ -16,8 +16,8 @@ I'm involved in projects like [AI Inclusive](https://www.ai-inclusive.org) as Ma
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaborges&hide=html&layout=compact&theme=default" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=inaborges&theme=default"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=inaborges&hide=html&layout=compact&theme=default" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=inaborges&theme=default"/></td>
     </tr>   
 </table>
 </center> 
