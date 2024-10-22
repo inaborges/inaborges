@@ -11,7 +11,7 @@ I'm a Salesforce Consultant, from São Paulo, 🇧🇷 .
 
 Building communities and bringing diversity in tech is my purpose. 
 
-I'm involved in projects like [AI Inclusive](https://www.ai-inclusive.org) as Marketing Manager, and [Salesforce Women in Tech](https://trailblazercommunitygroups.com/salesforce-women-in-tech-group-sao-paulo-brazil/) as Community Leader.
+I'm involved in projects like [AI Inclusive](https://www.ai-inclusive.org) as a volunteer.
 
 <center>
 <table>
